@@ -58,11 +58,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+ <a href="https://github.com/LouisNgatale/github-readme-stats"><img alt="Louis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LouisNgatale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/LouisNgatale/github-readme-stats"><img alt="Louis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisNgatale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LouisNgatale&theme=dark&background=000000)](https://git.io/streak-stats)
-
+#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisNgatale&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
